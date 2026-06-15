@@ -121,6 +121,13 @@ https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
+## Accepting Warranty or Additional Liability
+
+This Code of Conduct is provided "as is" without warranty of any kind. To the
+maximum extent permitted by applicable law, the community and its contributors
+are not responsible for any damages or liabilities arising from the use of this
+Code of Conduct, including any indirect, incidental, or consequential losses.
+
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see the FAQ at
